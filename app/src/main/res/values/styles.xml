@@ -1,0 +1,18 @@
+<resources>
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <item name="alertDialogTheme">@style/RoundedAlertDialog</item>
+    </style>
+
+    <style name="RoundedAlertDialog" parent="Theme.MaterialComponents.Light.Dialog.Alert">
+        <item name="shapeAppearanceOverlay">@style/RoundedCornerShapeAppearanceOverlay</item>
+    </style>
+
+    <style name="RoundedCornerShapeAppearanceOverlay" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">15dp</item>
+    </style>
+
+    <style name="TransparentDialog" parent="Theme.AppCompat.Dialog">
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Admin Wave Of Food</string>
+    <string name="default_web_client_id" translatable="false">764949666170-s65hkfk6mk937s6aqt200j8nv3rqk6qk.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://wave-of-food-da9bf-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">764949666170</string>
+    <string name="google_api_key" translatable="false">AIzaSyDKUsjDcS2SH2lO-Ehag3yzXnkaH7K_grU</string>
+    <string name="google_app_id" translatable="false">1:764949666170:android:708f7c72f19b6ba4091ec3</string>
+    <string name="channel_name">New Orders</string>
+    <string name="channel_description">Notifications for new orders</string>
+</resources>
